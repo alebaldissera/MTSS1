@@ -8,4 +8,6 @@
 
 ## Periferiche
 
+[mouse](periferiche/mouse.md)
+
 *Elettronica Padovana*
